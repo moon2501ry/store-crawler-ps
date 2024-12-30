@@ -17,5 +17,4 @@ for nm in num_list:
 
 if input("SendMsgs(y or n)> ") == 'y':
     print('Sending Mensages...');
-    input("Are you confirm?> ");
-    msg(games);
+    msg('games.txt');
