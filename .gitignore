@@ -3,3 +3,4 @@ games.txt
 
 # Python cache
 __pycache__/
+*.pyc
